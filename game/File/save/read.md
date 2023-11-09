@@ -1,0 +1,2 @@
+Tout donner devant etre sauvegarder doivent se trouver a l'interieur de se dossier. Tout donner non mise dans se dosier sera suprimer. Ne metter que les sauvgarde et non le progrma ici
+Ne pas metre de fichier trop volumineux a linterieur a fin de ne pas saturer lespace de sauvgarde d'arcadia
